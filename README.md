@@ -30,4 +30,4 @@
  - code is also written for the file in video format
  
 ### Results
- <img src="https://github.com/Saidislombek-dev/automatic_number-plate_recognition/blob/main/images/result0.jpg" width="450"/> <img src="https://github.com/Saidislombek-dev/automatic_number-plate_recognition/blob/main/images/result1.jpg" width="480"/>
+ <img src="https://github.com/Saidislombek-dev/automatic_number-plate_recognition/blob/main/images/result0.jpg" width="350"/> <img src="https://github.com/Saidislombek-dev/automatic_number-plate_recognition/blob/main/images/result1.jpg" width="370"/>
